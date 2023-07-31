@@ -1,0 +1,2 @@
+Código de Conduta
+Este projeto adotou o Código de Conduta de Código Aberto da Amazon. Para obter mais informações, consulte as Perguntas frequentes sobre o Código de Conduta ou entre em contato com opensource-codeofconduct@amazon.com com quaisquer perguntas ou comentários adicionais.

@@ -1,0 +1,56 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "slots": [],
+          "name": "PlayRadioIntent",
+          "samples": [
+            "tocar rádio",
+            "iniciar rádio",
+            "reproduzir rádio",
+            "ouvir rádio"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "parar",
+            "parar rádio",
+            "encerrar rádio"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancelar",
+            "cancelar rádio"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "me ajude",
+            "como tocar a rádio",
+            "pode me ajudar",
+            "tire minha dúvida"
+          ]
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "rádio unifisa"
+    }
+  }
+}

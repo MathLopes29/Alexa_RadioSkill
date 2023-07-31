@@ -1,0 +1,27 @@
+Licença de Software da Amazon
+Esta Licença de Software da Amazon (“Licença”) rege seu uso, reprodução e distribuição do software que a acompanha, conforme especificado abaixo.
+
+1. Definições
+    1.1 “Licenciador” significa qualquer pessoa ou entidade que distribui seu Trabalho.
+    1.2 “Software” significa o trabalho original de autoria disponibilizado sob esta Licença.
+    1.3 “Trabalho” significa o Software e quaisquer adições ou trabalhos derivados do Software disponibilizados sob esta Licença.
+    1.4 Os termos “reproduzir”, “reprodução”, “obras derivadas” e “distribuição” têm o significado fornecido pela lei de direitos autorais dos EUA; desde que, no entanto, para os fins desta Licença, os trabalhos derivados não incluam trabalhos que permaneçam separáveis ​​ou meramente vinculados (ou vinculados por nome) às interfaces do Trabalho.
+    1.5 Trabalhos, incluindo o Software, são “disponibilizados” sob esta Licença, incluindo no ou com o Trabalho (a) um aviso de direitos autorais referenciando a aplicabilidade desta Licença ao Trabalho, ou (b) uma cópia desta Licença.
+
+2. Concessões de Licença
+    2.1 Concessão de direitos autorais. Sujeito aos termos e condições desta Licença, cada Licenciador concede a você uma licença de direitos autorais perpétua, mundial, não exclusiva, isenta de royalties para reproduzir, preparar trabalhos derivados, exibir publicamente, executar publicamente, sublicenciar e distribuir seu Trabalho e qualquer derivado resultante funciona de qualquer forma.
+    2.2 Concessão de Patente. Sujeito aos termos e condições desta Licença, cada Licenciador concede a você uma licença de patente perpétua, mundial, não exclusiva e isenta de royalties para fazer, mandar fazer, usar, vender, oferecer para venda, importar e de outra forma transferir seu Trabalho , no todo ou em parte. A licença anterior aplica-se apenas às reivindicações de patente licenciáveis ​​pelo Licenciante que seriam infringidas pelo Trabalho do Licenciante (ou parte dele) individualmente e excluindo quaisquer combinações com quaisquer outros materiais ou tecnologia.
+
+3. Limitações
+    3.1 Redistribuição. Você pode reproduzir ou distribuir a Obra somente se (a) o fizer sob esta Licença, (b) incluir uma cópia completa desta Licença em sua distribuição e (c) reter sem modificação qualquer direito autoral, patente, marca registrada ou avisos de atribuição que estão presentes na Obra.
+    3.2 Trabalhos Derivados. Você pode especificar que termos adicionais ou diferentes se aplicam ao uso, reprodução e distribuição de seus trabalhos derivados da Obra (“Seus Termos”) somente se (a) Seus Termos estabelecerem que a limitação de uso na Seção 3.3 se aplica a seus trabalhos derivados , e (b) você identifica os trabalhos derivados específicos que estão sujeitos aos Seus Termos. Não obstante Seus Termos, esta Licença (incluindo os requisitos de redistribuição na Seção 3.1) continuará a se aplicar ao próprio Trabalho.
+    3.3 Limitação de Uso. A Obra e quaisquer trabalhos derivados dela somente podem ser usados ​​ou destinados ao uso com os serviços da web, plataformas de computação ou aplicativos fornecidos pela Amazon.com, Inc. ou suas afiliadas, incluindo Amazon Web Services, Inc.
+    3.4 Reivindicações de Patentes. Se você apresentar ou ameaçar apresentar uma reivindicação de patente contra qualquer Licenciador (incluindo qualquer reivindicação, reivindicação cruzada ou reconvenção em uma ação judicial) para fazer valer quaisquer patentes que você alega serem infringidas por qualquer Trabalho, seus direitos sob esta Licença de tal Licenciador ( incluindo as concessões nas Seções 2.1 e 2.2) serão encerradas imediatamente.
+    3.5 Marcas Registradas. Esta Licença não concede nenhum direito de usar nomes, logotipos ou marcas registradas de qualquer Licenciador ou de suas afiliadas, exceto conforme necessário para reproduzir os avisos descritos nesta Licença.
+    3.6 Rescisão. Se você violar qualquer termo desta Licença, seus direitos sob esta Licença (incluindo as concessões nas Seções 2.1 e 2.2) serão encerrados imediatamente.
+
+4. Isenção de garantia.
+    O TRABALHO É FORNECIDO “COMO ESTÁ” SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO GARANTIAS OU CONDIÇÕES DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM, TÍTULO OU NÃO VIOLAÇÃO. VOCÊ ASSUME O RISCO DE REALIZAR QUALQUER ATIVIDADE SOB ESTA LICENÇA. AS LEIS DO CONSUMIDOR DE ALGUNS ESTADOS NÃO PERMITEM A EXCLUSÃO DE UMA GARANTIA IMPLÍCITA, PORTANTO ESTA ISENÇÃO DE RESPONSABILIDADE PODE NÃO SE APLICAR A VOCÊ.
+
+5. Limitação de responsabilidade.
+    EXCETO CONFORME PROIBIDO PELA LEGISLAÇÃO APLICÁVEL, EM NENHUM CASO E SOB NENHUMA TEORIA LEGAL, SEJA EM TORTO (INCLUINDO NEGLIGÊNCIA), CONTRATO OU DE OUTRA FORMA QUALQUER LICENCIADOR SERÁ RESPONSÁVEL POR VOCÊ POR DANOS, INCLUINDO QUAISQUER DANOS DIRETOS, INDIRETOS, ESPECIAIS, INCIDENTAIS OU CONSEQUENTES DANOS DECORRENTES DE OU RELACIONADOS A ESTA LICENÇA, O USO OU INCAPACIDADE DE USAR O TRABALHO (INCLUINDO, ENTRE OUTROS, PERDA DE ADEUS, INTERRUPÇÃO DE NEGÓCIOS, PERDA DE LUCROS OU DADOS, FALHA OU MAU FUNCIONAMENTO DO COMPUTADOR OU QUAISQUER OUTROS DANOS OU PERDAS COMERCIAIS) , MESMO QUE O LICENCIANTE TENHA SIDO AVISADO DA POSSIBILIDADE DE TAIS DANOS.
